@@ -1,3 +1,9 @@
+## Olá 👋
+
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Buscando atuar como Analista de Dados no Itaú
+- Atualmente aprofundando meus conhecimentos em Banco de Dados
+  
 ## Tecnologias e Ferramentas
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
